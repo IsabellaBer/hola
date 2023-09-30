@@ -1,0 +1,35 @@
+h1{
+    color: rgb(255, 0, 140);
+width: 10%;
+border-radius: 30px;
+border-style: dashed;
+text-align: center;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.slogan{
+    width: 30%;
+    background-color: rgb(35, 38, 224);
+}
+
+nav{
+    width: 60%;
+    background-color: khaki;
+}
+
+li{
+    text-decoration: none;
+}
+
+body{
+    background-image: url("https://elmuseodearteonline.com/wp-content/uploads/2020/03/La-noche-estrellada-2-1024x653.jpg");
+}
